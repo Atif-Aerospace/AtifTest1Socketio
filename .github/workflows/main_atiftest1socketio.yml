@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'AtifTest1Socketio'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_33BE296266D647BE8AF3935D654F6B2B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0F682BE5F82B4C9BA27B86202D96A23F }}
